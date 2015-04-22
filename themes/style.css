@@ -77,4 +77,8 @@ article
 	width: 100%;
 }
 
-
+.listitem
+{
+	padding: -10px;
+	margin: -10px;
+}
